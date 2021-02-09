@@ -1,0 +1,21 @@
+git clone <url> -> take a repository from the internet and download to your computer 
+git add <filename>
+git commit -m "message"
+git commit -am "message" -> commit all the files that have changed 
+git status 
+git push
+git pull - download the latest changes from the repository
+git log
+git reset --hard <commint hash>
+git reset --hard origin/master
+git branch -> shows the branchs and in which one you are working 
+git checkout -b <branch name> -> creates and changes the branch that you are working with
+git checkout <branch name> ->changes the branch that you are working with
+git merge <branch name> 
+
+
+
+
+ 
+
+
